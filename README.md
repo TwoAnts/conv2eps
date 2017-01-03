@@ -13,7 +13,7 @@ or
 ##Example
 `conv2eps img1.png`  
 Convert `img1.png` to `img1.eps`.  
-`img1.png` not deleted.   
+The `img1.png` not deleted.   
 
  
  
